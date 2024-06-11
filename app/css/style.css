@@ -1,0 +1,70 @@
+body {
+  overflow-x: hidden;
+}
+.sofia-sans-semi-condensed {
+  font-family: "Sofia Sans Semi Condensed", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+}
+
+.sofia-sans-regular {
+  font-family: "Sofia Sans Semi Condensed", sans-serif;
+  font-weight: 200;
+  font-style: normal;
+}
+
+.gochi-hand-regular {
+  font-family: "Gochi Hand", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.k-1 {
+  background-color: #5335cb;
+  color: white;
+}
+
+.k-2 {
+  color: #5532df;
+}
+
+.exclus {
+  background-color: #f9f5ec;
+}
+
+.rou {
+  border-radius: 35px;
+}
+
+.prp {
+  background-color: #cdbefb;
+  border-radius: 20px;
+  gap: 8px;
+}
+
+.lite-prp {
+  background-color: #f1eeff;
+  border-radius: 20px;
+  gap: 8px;
+}
+
+.lite-grn {
+  background-color: #9cd8d4;
+  border-radius: 20px;
+  gap: 8px;
+}
+
+.lite-pnk {
+  background-color: #fac0c2;
+  border-radius: 20px;
+  gap: 8px;
+}
+
+.rdnd {
+  border-radius: 24px;
+}
+
+.futah {
+  background-color: #f8f9fa;
+}
